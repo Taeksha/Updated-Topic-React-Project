@@ -1,0 +1,125 @@
+{
+    "woman":[
+        {
+            "image":"https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301003006MUSTARD_1_800x.jpg?v=1734615597",
+            "title":"Lov Mustard Solid A-Line Dress with Belt",
+            "price":"₹ 1,899.00",
+            "id":"01"
+        },
+        {
+            "image":"https://www.westside.com/cdn/shop/files/301005740ECRU_1.jpg?v=1736226424&width=493",
+            "title":"LOV Off-White Botanical Printed A-Line Dress",
+            "price":"₹ 1,899.00",
+            "id":"02"
+        },
+        {
+            "image":"https://www.westside.com/cdn/shop/files/301005726KHAKI_1.jpg?v=1736226352&width=493",
+            "title":"LOV Khaki Knot-Design Shirt",
+            "price":"₹ 1,299.00",
+            "id":"03"
+        },
+        {
+            "image":"https://www.westside.com/cdn/shop/files/301005741OCHRE_1.jpg?v=1736226784&width=493",
+            "title":"LOV Mustard Solid Shirt Dress",
+            "price":"₹ 1,899.00",
+            "id":"04"
+        },
+        {
+            "image":"https://www.westside.com/cdn/shop/files/301005758TAUPE_1.jpg?v=1736399072&width=493",
+            "title":"LOV Taupe High-Rise Pants",
+            "price":"Regular price₹ 1,499.00",
+            "id":"05"
+        }
+    
+    ],
+
+    "MEN" :[
+        {
+            "image":"https://www.westside.com/cdn/shop/files/301007625BLACK_1.jpg?v=1737000669&width=493",
+            "title":"WES Formals Black Striped Slim-Fit Cotton Shirt",
+            "price":"₹ 999.00",
+            "id":"06"
+        },
+        {
+            "image":"https://www.westside.com/cdn/shop/files/301007631NAVY_1.jpg?v=1737000667&width=493",
+            "title":"WES Formals Navy Houndstooth Printed Slim-Fit Cotton Shirt",
+            "price":"₹ 999.00",
+            "id":"07"
+        },
+        {
+            "image":"https://www.westside.com/cdn/shop/files/301007635WHITE_1.jpg?v=1737000665&width=493",
+            "title":"WES Formals White Striped Slim-Fit Cotton Shirt",
+            "price":"₹ 999.00",
+            "id":"08"
+        },
+        {
+            "image":"https://www.westside.com/cdn/shop/files/301007634BROWN_1.jpg?v=1737000668&width=493",
+            "title":"WES Formals Brown Checkered Slim-Fit Cotton Shirt",
+            "price":"₹ 999.00",
+            "id":"09"
+        },
+        {
+            "image":"https://www.westside.com/cdn/shop/files/301007631NAVY_1.jpg?v=1737000667&width=493",
+            "title":"WES Formals Navy Houndstooth Printed Slim-Fit Cotton Shirt",
+            "price":"₹ 999.00",
+            "id":"10"
+        },
+        {
+            "image":"https://www.westside.com/cdn/shop/files/301007635WHITE_1.jpg?v=1737000665&width=493",
+            "title":"WES Formals White Striped Slim-Fit Cotton Shirt",
+            "price":"₹ 999.00",
+            "id":"11"
+        }
+    ],
+    
+    "Children":[
+        {
+            
+            "image":"https://www.westside.com/cdn/shop/files/301003306RED_1.jpg?v=1736398414&width=493",
+            "title":"HOP Kids Red Printed Shirt",
+            "price":"₹ 599.00",
+            "id":"12"
+
+        },
+        {
+            
+            "image":"https://www.westside.com/cdn/shop/files/301003313OFFWHITE_1.jpg?v=1735897381&width=493",
+            "title":"HOP Kids Off-White Stripe Printed Cotton T-Shirt",
+            "price":"₹ 399.00",
+            "id":"13"
+
+        }, {
+            
+            "image":"https://www.westside.com/cdn/shop/files/301003155MIDWASH_1.jpg?v=1736398409&width=493",
+            "title":"HOP Kids Light Blue Cargo-Style Relaxed - Fit Mid - Rise Jeans",
+            "price":"₹ 799.00",
+            "id":"14"
+
+        },
+        {
+            
+            "image":"https://www.westside.com/cdn/shop/files/301003304OFFWHITE_1.jpg?v=1735897394&width=493",
+            "title":"HOP Kids Off-White Sea-Themed Sweatshirt",
+            "price":"₹ 599.00",
+            "id":"15"
+
+        },
+        {
+            
+            "image":"https://www.westside.com/cdn/shop/files/301003313OFFWHITE_1.jpg?v=1735897381&width=493",
+            "title":"HOP Kids Off-White Stripe Printed Cotton T-Shirt",
+            "price":"₹ 399.00",
+            "id":"16"
+
+        }, {
+            
+            "image":"https://www.westside.com/cdn/shop/files/301003155MIDWASH_1.jpg?v=1736398409&width=493",
+            "title":"HOP Kids Light Blue Cargo-Style Relaxed - Fit Mid - Rise Jeans",
+            "price":"₹ 799.00",
+            "id":"17"
+
+        }
+
+    ]
+}
+       
